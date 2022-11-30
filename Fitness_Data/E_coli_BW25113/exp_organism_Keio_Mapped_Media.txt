@@ -1,0 +1,3 @@
+	M9 minimal media_noCarbon	M9 minimal media_noNitrogen
+ModelSEED	cpd00001; cpd00007; cpd00009; cpd00011; cpd00013; cpd00030; cpd00034; cpd00048; cpd00058; cpd00063; cpd00067; cpd00099; cpd00149; cpd00205; cpd00244; cpd00254; cpd00971; cpd10515; cpd10516; cpd11574	cpd00001; cpd00007; cpd00009; cpd00011; cpd00027; cpd00030; cpd00034; cpd00048; cpd00058; cpd00063; cpd00067; cpd00099; cpd00149; cpd00205; cpd00244; cpd00254; cpd00971; cpd10515; cpd10516; cpd11574
+BiGG iML1515	pi; co2; fe3; h; mn2; fe2; zn2; mg2; ca2; ni2; cu2; sel; cobalt2; h2o; mobd; so4; nh4; k; na1; cl; o2; tungs; slnt	pi; co2; fe3; h; mn2; fe2; glc__D; zn2; mg2; ca2; ni2; cu2; sel; cobalt2; h2o; mobd; so4; k; na1; cl; o2; tungs; slnt
